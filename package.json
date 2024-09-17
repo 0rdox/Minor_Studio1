@@ -1,0 +1,14 @@
+{
+  "name": "chartjs-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx tailwindcss -o output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  },
+  "dependencies": {
+    "@cubejs-client/core": "^0.31.0"
+  }
+}
